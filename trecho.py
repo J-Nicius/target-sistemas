@@ -1,9 +1,9 @@
-INDICE = 12
-SOMA = 0
-K = 1
+indice = 12
+soma = 0
+k = 1
 
-while K < INDICE:
+while K < indice:
     K = K + 1
-    SOMA = SOMA + K
+    soma = soma + K
 
-print(SOMA)
+print(soma)
