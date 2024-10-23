@@ -12,6 +12,5 @@ def verificar_fibonacci(num):
     else:
         print (f"O número {num} não pertence à sequência de Fibonacci.")
 
-# Exemplo de uso
 num = int(input("Informe um número: "))
 print(verificar_fibonacci(num))

@@ -8,8 +8,6 @@ def conta_a(frase):
     print (f"Na frase o total de letas 'A/a' é: {soma_a}")
 
     
-
-# Exemplo de uso
 frase = input("Digite uma string: ")
 print(conta_a(frase))
 
